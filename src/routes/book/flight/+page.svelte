@@ -18,3 +18,14 @@
         </div>
     </form>
 </div>
+
+<form>
+    <fieldset class="uk-fieldset">
+
+        <legend class="uk-legend">Book a Flight</legend>
+
+        <div class="uk-margin">
+            <input class="uk-input" type="text" placeholder="Input" aria-label="Input">
+        </div>
+    </fieldset>
+</form>
