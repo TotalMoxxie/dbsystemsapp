@@ -13,8 +13,9 @@
 					<div class="uk-navbar-left uk-margin-left">
 						<ul class="uk-navbar-nav">
 							<li><a href='/'>Home</a></li>
-							<li><a href="/trackflights">Track Flight</a></li>
-							<li><a href="/flightstatus">Flight Status</a></li>
+							<li><a href="/book/flight">Book a Flight</a></li>
+							<li><a href="/book/myflights">My Flight</a></li>
+							<li><a href="/devplan/trackflights">In Development</a></li>
 							<li><a href="/about/intro">About</a></li>
 						</ul>
 					</div>
