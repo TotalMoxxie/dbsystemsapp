@@ -1,4 +1,3 @@
-
 <form class="uk-flex uk-flex-center uk-grid-collapse uk-margin-left uk-margin-right uk-margin-top" uk-grid>
     <div class="uk-width-5-6">
         <div class="uk-grid-collapse" uk-grid>
