@@ -1,6 +1,6 @@
-<form>
+<form class="uk-margin-left uk-margin-top">
     <fieldset class="uk-fieldset">
-        <legend class="uk-legend">Book a Flight</legend>
+        <legend class="uk-legend uk-margin-bottom">Book a Flight</legend>
         <div class="uk-grid" uk-grid>
             <div class="uk-width-5-6">
                 <div class="uk-grid-collapse" uk-grid>
