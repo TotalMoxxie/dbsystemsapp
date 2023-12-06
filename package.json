@@ -21,6 +21,7 @@
 	"dependencies": {
 		"@supabase/auth-helpers-sveltekit": "^0.10.7",
 		"@supabase/supabase-js": "^2.39.0",
+		"@vercel/postgres": "^0.5.1",
 		"uikit": "^3.17.11"
 	}
 }
