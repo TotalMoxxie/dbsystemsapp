@@ -4,7 +4,7 @@
         <li class="uk-nav-header">Documentation</li>
         <li class="uk-nav-divider"></li>
         <li><a href="/devplan/trackflights">Track Flight</a></li>
-        <li><a href="/devplan/flightstatus">Flight Status</a></li>
+        <li><a href="/devplan/flightbookingdev">Book a Flight</a></li>
         <li><a href="/devplan/offers">Flight Offers</a></li>
         <!-- Add more navbar items if needed -->
         </ul>
