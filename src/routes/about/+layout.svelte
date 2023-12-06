@@ -5,7 +5,7 @@
         <li class="uk-nav-divider"></li>
         <li><a href="/about/intro">Introduction</a></li>
         <li><a href="/about/tools">Tools</a></li>
-        <li><a href="/about/codesnip">Code Snippets</a></li>
+        <!--<li><a href="/about/codesnip">Code Snippets</a></li>-->
         <!-- Add more navbar items if needed -->
         </ul>
     </div>
