@@ -64,3 +64,13 @@
         </div>
     </div>
 </div>
+
+<!-- ExamplePage.svelte -->
+
+<script>
+    // Import the Card component
+    import FOCard from '$lib/components/flight_offer_card.svelte';
+</script>
+
+<FOCard />
+  
