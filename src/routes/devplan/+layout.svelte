@@ -5,7 +5,8 @@
         <li class="uk-nav-divider"></li>
         <li><a href="/devplan/trackflights">Track Flight</a></li>
         <li><a href="/devplan/flightbookingdev">Book a Flight</a></li>
-        <li><a href="/devplan/offers">Flight Offers</a></li>
+        <li><a href="/devplan/userauthdev">User Authentication</a></li>
+        <li><a href="/devplan/inputoutput">Input and Output</a></li>
         <!-- Add more navbar items if needed -->
         </ul>
     </div>
