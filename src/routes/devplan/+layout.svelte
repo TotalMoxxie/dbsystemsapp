@@ -7,7 +7,7 @@
         <li><a href="/devplan/flightbookingdev">Book a Flight</a></li>
         <li><a href="/devplan/userauthdev">User Authentication</a></li>
         <li><a href="/devplan/inputoutput">Input and Output</a></li>
-        <li><a href="/devplan/processes">Processes</a></li>
+        <li><a href="/devplan/processdev">Processes</a></li>
         <!-- Add more navbar items if needed -->
         </ul>
     </div>
